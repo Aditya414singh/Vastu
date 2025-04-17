@@ -3,14 +3,14 @@
 This repository contains the backend implementation of the **Vastu** project.  
 All source code is structured inside the ackend/ folder.
 
-## ?? Tech Stack
+## Tech Stack
 - Node.js  
 - Express.js
 - MongoDB / Mongoose
 - JWT Authentication
 - dotenv for environment management
 
-## ?? Getting Started
+##  Getting Started
 
 1. Clone the repository  
    git clone https://github.com/Aditya414singh/Vastu.git
@@ -29,4 +29,10 @@ odemon index.js
 
 > Make sure to configure your .env file before starting the project.
 
-## ?? Folder Structure
+##  Folder Structure
+Vastu/
+└── backend/
+    ├── app.js
+    ├── models/
+    ├── routes/
+    └── ...
